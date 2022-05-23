@@ -76,17 +76,16 @@ body {
     padding: 20px;
   }
 
-  ul {
+  .imagembeneficios{
+    width: 50%;
+  }
+  
+ .Atendimentos {
     display: inline-block;
     vertical-align: top;
     width: 20%;
     margin-right: 15%;
   }
-
-  .imagembeneficios{
-    width: 50%;
-  }
-  
 
   footer {
     text-align: center;
