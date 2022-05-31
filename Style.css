@@ -9,6 +9,12 @@ header {
     margin: 0 auto;
 }
 
+.menu {
+    position: relative;
+    width: 940px;
+    margin: 0 auto;
+}
+
 nav {
     position: absolute;
     top: 110px;
@@ -135,7 +141,7 @@ form label, form legend {
     background: darkorange;
     transform: scale(1.2);
 }
-
+/* css da tabela de horario */
 table {
     margin: 20px 0 40px;
 }
@@ -150,3 +156,37 @@ td, th {
     border: 1px solid #000000;
     padding: 8px 15px;
 }
+/* css da página inicial */
+.banner {
+    width: 100%;
+  }
+
+.titulo-principal {
+    text-align: center;
+    font-size: 2em;
+    margin: 0 0 1em;
+    clear: left;
+  }
+
+.principal p {
+    margin: 0 0 1em;
+}
+
+.principal strong {
+    font-weight: bold;
+}
+
+.principal em {
+    font-style: italic;
+}
+
+.utensilios {
+    width: 120px;
+    float: left;
+    margin: 0 20px 20px 0;
+}
+
+.imagembeneficios {
+    width: 60%; 
+}
+
